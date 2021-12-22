@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PQP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:cobblestone"
+    },
+    "Q": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:clay_ball",
+    "count": 32
+  }
+}
