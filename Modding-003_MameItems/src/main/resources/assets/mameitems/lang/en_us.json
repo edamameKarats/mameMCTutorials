@@ -1,0 +1,12 @@
+{
+  "item.mameitems.obsidian_sword": "ObsidianSword",
+  "item.mameitems.obsidian_shovel": "ObsidianShovel",
+  "item.mameitems.obsidian_axe": "ObsidianAxe",
+  "item.mameitems.obsidian_pickaxe": "ObsidianPickaxe",
+  "item.mameitems.obsidian_hoe": "ObsidianHoe",
+  "item.mameitems.obsidian_helmet": "ObsidianHelmet",
+  "item.mameitems.obsidian_chestplate": "ObsidianChestplate",
+  "item.mameitems.obsidian_leggings": "ObsidianLeggings",
+  "item.mameitems.obsidian_boots": "ObsidianBoots",
+  "itemGroup.mameitems": "MameItems"
+}
