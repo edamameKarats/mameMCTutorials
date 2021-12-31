@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "": { "model": "mameores:block/tin_ore" }
+  }
+}
