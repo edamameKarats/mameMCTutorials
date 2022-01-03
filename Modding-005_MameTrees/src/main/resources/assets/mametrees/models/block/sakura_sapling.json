@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mametrees:block/sakura_sapling"
+  }
+}

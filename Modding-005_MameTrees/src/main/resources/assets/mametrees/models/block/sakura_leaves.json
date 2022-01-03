@@ -1,0 +1,6 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "mametrees:block/sakura_leaves"
+  }
+}
