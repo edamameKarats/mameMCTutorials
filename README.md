@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=V_6DE6anaOQ
 ## 005_MameTrees
 https://www.youtube.com/watch?v=nI3DEepHvIU
 
+## 006_MameMisc
+https://www.youtube.com/watch?v=VHlo5GkNeH8
