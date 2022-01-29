@@ -18,3 +18,9 @@ https://www.youtube.com/watch?v=nI3DEepHvIU
 
 ## 006_MameMisc
 https://www.youtube.com/watch?v=VHlo5GkNeH8
+
+## 007_MameDoors
+https://www.youtube.com/watch?v=XDGJvgQssyE
+
+## 008_MameDoors(Animation)
+https://www.youtube.com/watch?v=5xlsLSFhv3A
