@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "ispart=true,door_1x2_param=p_11": {"model": "mamedoors:block/door_1x2_lower_rh"},
+    "ispart=true,door_1x2_param=p_12": {"model": "mamedoors:block/door_1x2_upper_rh"},
+    "ispart=false" : {"model": "mamedoors:block/door_1x2_none"}
+  }
+}
