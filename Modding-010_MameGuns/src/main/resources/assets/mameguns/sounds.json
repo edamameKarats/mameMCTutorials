@@ -1,0 +1,10 @@
+{
+  "item.fire": {
+    "subtitle": "subtitle.fire",
+    "sounds": [
+      {
+        "name": "mameguns:item/fire"
+      }
+    ]
+  }
+}
